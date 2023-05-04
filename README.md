@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning the core part of <b>.NET (C#)</b> & core JAVA.
 
-- 👯 I’m looking to collaborate on care <b>JAVA</b> Projects.
+- 👯 I’m looking to collaborate on core <b>JAVA</b> Projects.
 
 - 🤔 I’m looking for help to understand <b>Git</b> & <b>GitHub</b>.
 
