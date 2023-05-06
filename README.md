@@ -23,10 +23,10 @@
 <h1>🚩 Languages and Tools 🚩</h1>
 <p align="left"><a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/> </a> &nbsp; &nbsp;  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/></a> &nbsp; &nbsp; <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/> </a> &nbsp; &nbsp; <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/> </a> &nbsp; &nbsp; <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a> &nbsp; &nbsp; <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a> &nbsp; &nbsp; <br><br> <a> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="55" height="55"/> </a> &nbsp; &nbsp; <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> </a> </p>
 <br>
-<h1>👀 My GitHub Stats 👀</h3>
+<h1>🎯 My GitHub Stats 🎯</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romanrumi951&" alt="romanrumi951" /></p>
 <br>
-<h1>🐱‍🏍 Connect with me 🐱‍🏍</h3>
+<h1>🌐 Connect with me 🌐</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roman-rumi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roman-rumi/" height="30" width="40" /></a>
 </p>
