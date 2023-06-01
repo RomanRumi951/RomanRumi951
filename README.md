@@ -28,5 +28,5 @@
 <br>
 <h1>🌐 Connect with me 🌐</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/roman-rumi/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="https://www.linkedin.com/in/roman-rumi/" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/roman-rumi/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="https://www.linkedin.com/in/roman-rumi/" height="50" width="50" /></a>
 </p>
