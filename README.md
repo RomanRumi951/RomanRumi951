@@ -7,13 +7,13 @@
 
 - 🎫 I’m a third year student of <b>CS (Computer Science)</b> & currently pursuing <b>BCA (Bachelor Of Computer Application)</b>.
 
-- 🌱 I’m currently learning & implementing Advance JAVA with it's Frameworks like <b>Hibernate</b> & <b>Springboot</b> and Also <b>ASP.NET with MVC Architecture (With C#)</b>.
+- 🌱 I’m currently learning & implementing Advanced JAVA with it's Frameworks like <b>Hibernate</b> & <b>Springboot</b> and Also <b>ASP.NET</b> with <b>MVC Architecture</b> (With C#).
 
-- 👯 I’m looking to collaborate on core <b>JAVA</b> Projects.
+- 👯 I’m looking to collaborate on <b>ADVANCED JAVA</b> Projects.
 
 - 🤔 I’m looking for help to understand <b>Git</b> & <b>GitHub</b> much better.
 
-- 💬 you can ask me about <b>core JAVA</b> related problems.
+- 💬 you can ask me about <b>JAVA</b> related problems.
 
 - 📫 How to reach me: <b>1. </b> <a>https://www.linkedin.com/in/roman-rumi</a> || <b>2. </b> &#x2709; rumiroman9286@gmail.com.
 
