@@ -7,7 +7,7 @@
 
 - 🎫 I’m a third year student of <b>CS (Computer Science)</b> & currently pursuing <b>BCA (Bachelor Of Computer Application)</b>.
 
-- 🌱 I’m currently learning the core part of <b>.NET (C#)</b> & core JAVA.
+- 🌱 I’m currently learning & implementing Advance JAVA with it's Frameworks like <b>Hibernate</b> & <b>Springboot</b> and Also <b>ASP.NET with MVC Architecture (With C#)</b>.
 
 - 👯 I’m looking to collaborate on core <b>JAVA</b> Projects.
 
