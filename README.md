@@ -16,9 +16,9 @@
 - 💬 you can ask me about <b>JAVA</b> related problems.
 
 - 📫 How to reach me:
-  1. <a href="https://www.linkedin.com/in/roman-rumi">Checkout my Linkedin Profile.</a>
-  2. <a href="mailto:rumiroman9286@gmail.com">Write to Me.</a>
-  3. <a href="https://roman-rumi.vercel.app">Checkout my Portfolio.</a>
+  1. <a href="https://www.linkedin.com/in/roman-rumi" target="_blank">Checkout my Linkedin Profile.</a>
+  2. <a href="mailto:rumiroman9286@gmail.com" target="_blank">Write to Me.</a>
+  3. <a href="https://roman-rumi.vercel.app" target="_blank">Checkout my Portfolio.</a>
 
 <br>
 <h1>🚩 Languages and Tools 🚩</h1>
